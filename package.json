@@ -1,0 +1,32 @@
+{
+  "name": "svelte-clipboard",
+  "author": "meloalright",
+  "version": "0.0.2",
+  "description": "A Svelte component easy to copy text to clipboard.",
+  "svelte": "src/Clipboard.svelte",
+  "module": "dist/clipboard.mjs",
+  "main": "dist/clipboard.js",
+  "keywords": [
+    "svelte",
+    "clipboard",
+    "copy",
+    "svelte-clipboard"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "rollup": "^1.27.5",
+    "rollup-plugin-node-resolve": "^5.2.0",
+    "rollup-plugin-svelte": "^5.1.1",
+    "svelte": "^3.15.0"
+  },
+  "scripts": {
+    "build": "rollup -c",
+    "test": "echo no test specified"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meloalright/svelte-clipboard.git"
+  },
+  "homepage": "https://github.com/meloalright/svelte-clipboard#readme",
+  "license": "MIT"
+}
