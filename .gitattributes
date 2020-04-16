@@ -1,0 +1,2 @@
+*.mjs linguist-language=javascript
+*.svelte linguist-language=javascript
