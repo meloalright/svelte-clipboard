@@ -1,7 +1,7 @@
 {
   "name": "svelte-clipboard",
   "author": "meloalright",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "description": "A Svelte component easy to copy text to clipboard.",
   "svelte": "src/Clipboard.svelte",
   "module": "dist/clipboard.mjs",
